@@ -1,0 +1,3 @@
+<?php
+
+define("SILVERSTRIPE_ASYNC_MODULE_PATH", __DIR__);

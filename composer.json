@@ -1,0 +1,17 @@
+{
+    "type": "silverstripe-module",
+    "name": "silverleague/silverstripe-async",
+    "require": {
+        "php": "^7.0",
+        "silverstripe/crontask": "dev-master@dev",
+        "amphp/aerys": "^0.4.4",
+        "asyncphp/process": "^1.0"
+    },
+    "autoload": {
+        "classmap": [
+            "src"
+        ]
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev"
+}

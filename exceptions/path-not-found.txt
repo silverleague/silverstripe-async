@@ -1,0 +1,1 @@
+We couldn't work out the base project path. That usually happens when the module is installed to a non-standard location. If you're developing the module, try setting the SILVERLEAGUE_SILVERSTRIPE_ASYNC_BASE_PATH environment variable to the base project path.
